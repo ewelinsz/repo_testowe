@@ -1,3 +1,4 @@
+cat /dev/null > README.md
   echo "This is information concerned with guesinggame.sh project." >> README.md
   echo "This is a game in which a user has to guess how many files are in the current directory." >> README.md
   echo "date and time of running make: " >> README.md
